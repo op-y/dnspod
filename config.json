@@ -1,0 +1,7 @@
+{
+    "log_level": "debug",
+    "port": ":8888",
+    "username": "username",
+    "password": "password",
+    "token": "your-token"
+}
